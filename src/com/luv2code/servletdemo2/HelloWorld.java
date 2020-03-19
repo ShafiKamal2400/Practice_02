@@ -35,7 +35,7 @@ public class HelloWorld extends HttpServlet {
 		//generate HTML
 		out.println("<html><body>");
 				
-		out.println("<h2>Hello World</h2>");
+		out.println("<h2>Hello World test</h2>");
 				
 		out.println("<hr>");
 		out.println("Time on server is: " + new java.util.Date());
